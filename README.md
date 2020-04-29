@@ -1,3 +1,3 @@
 # Connecting-Blood
 Promotional Website made for Web Development event at IIT Bombay<br>
-[Click Here to visit website](bit.ly/connectingblood)
+Website Link: bit.ly/connectingblood (copy this url and paste it in your browser to view website)
